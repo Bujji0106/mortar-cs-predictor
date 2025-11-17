@@ -1,0 +1,6 @@
+{
+  "gbr__learning_rate": 0.05,
+  "gbr__max_depth": 3,
+  "gbr__n_estimators": 200,
+  "gbr__subsample": 1.0
+}

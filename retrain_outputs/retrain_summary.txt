@@ -1,0 +1,5 @@
+Retrain summary
+{'cv_rmse_mean': 1.858605456384792, 'cv_rmse_std': 0.3186776542100102, 'cv_r2_mean': 0.8913605114619472, 'train_rmse': 0.4597624744197787, 'train_r2': 0.9941532094272479, 'n_samples': 72}
+Parity plot: C:\Users\bujji\OneDrive\Desktop\final_outputs_no_pdf\retrain_outputs\parity_retrained_pdf.png
+Bar charts: C:\Users\bujji\OneDrive\Desktop\final_outputs_no_pdf\retrain_outputs\bar_charts\bar_compare_H2SO4_2pct.png, C:\Users\bujji\OneDrive\Desktop\final_outputs_no_pdf\retrain_outputs\bar_charts\bar_compare_MgSO4_5pct.png, C:\Users\bujji\OneDrive\Desktop\final_outputs_no_pdf\retrain_outputs\bar_charts\bar_compare_NaCl_3.5pct.png, C:\Users\bujji\OneDrive\Desktop\final_outputs_no_pdf\retrain_outputs\bar_charts\bar_compare_control.png
+Validation CSV: C:\Users\bujji\OneDrive\Desktop\final_outputs_no_pdf\retrain_outputs\validation_table_model_vs_experiment.csv

@@ -1,0 +1,12 @@
+Validation plan and references:
+- Data extracted from CS values.pdf (your uploaded experimental tables) used for training.
+- Validation literature files uploaded: applsci-14-06140.pdf, materials-15-02181.pdf, nanomaterials-07-00407-v2.pdf, materials-17-02411-1.pdf, Graphene-oxide-reinforced_cement_composites_mechan.pdf, processes-10-01387-v2.pdf.
+- IS codes to reference: IS 4031 (Methods of physical tests for hydraulic cement) and IS 516 (Method of Tests for Strength of Concrete).
+- Outputs saved: trained model, dataset CSV, prediction plot. Use these to prepare the downloadable report and comparisons.
+
+
+Validating journal titles referenced in this project:
+- Mechanical Properties, Microstructure, and Durability of Graphene Oxide-Modified Cement-Based Composites: A Comprehensive Review (Applied Sciences, 2024)
+- Effect of Graphene Oxide on the Hydration, Mechanical Properties, and Durability of Cementitious Materials (Materials, 2024)
+- Graphene Oxide Reinforced Cement Composites: Mechanisms, Performance, and Microstructural Improvements (Nanomaterials, 2023)
+- Influence of Graphene Oxide on Cement Mortar: Mechanical Strength, Durability, and Microstructural Morphology (Processes, 2024)
